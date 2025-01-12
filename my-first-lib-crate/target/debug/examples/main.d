@@ -1,0 +1,1 @@
+/Users/lihao/Code/study/rust-project/my-first-lib-crate/target/debug/examples/main: /Users/lihao/Code/study/rust-project/my-first-lib-crate/examples/main.rs /Users/lihao/Code/study/rust-project/my-first-lib-crate/src/lib.rs

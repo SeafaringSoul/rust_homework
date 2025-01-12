@@ -1,0 +1,15 @@
+[package]
+name = "my-first-lib-crate"
+version = "0.1.0"
+edition = "2021"
+authors = ["Seafarer"]
+description = "my first rust for lib crates!"
+readme = 'README.md'
+license = "Apache-2.0"
+homepage = "https://github.com/ibuidl/template-lib-crate"
+repository = "https://github.com/ibuidl/template-lib-crate.git"
+
+[badges]
+maintenance = { status = "actively-developed" }
+
+[dependencies]
